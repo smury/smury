@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **smury/smury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🙋🏻‍♂️ Introducing Myself
+
+Hello, ! I'm Sean, a research scientist with expertise in physics, maths and data analysis as well as microbiology and microscopy. I currently lead a research group at the Max Planck Institute for Terrestrial Microbiology, where I used my quantitative skills (PhD in Mathematical Physics) to answer questions in bacterial cell biology. This involves analysing large datasets (of microscopy images) as well as mathematical and computational modelling and simulations.
+
+I am currently looking for new opportunities in the data science and related spaces.
+
+- Experienced in data analysis, statistics and machine learning
+- Expert programming ability in Matlab and C++
+- Proficient in Python and its data science libraries (numpy, pandas, scikit-learn)
+- Data queries using SQL (BigQuery)
+- Distributed computing (slurm cluster managament)
+  
+<!--
+### 📚 Projects
+
+ Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+-->
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/sean-murray-de/)
+- Gitlab of my research group https://gitlab.gwdg.de/murray-group
