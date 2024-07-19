@@ -22,17 +22,18 @@ Hello, ! I'm Sean, a research scientist with expertise in physics, maths and dat
 
 I am currently looking for new opportunities in the data science and related spaces.
 
-- Experienced in data analysis, statistics and machine learning
+- Experienced in data analysis, statistics, machine learning and deep learning (Pytorch)
 - Expert programming ability in Matlab and C++
 - Proficient in Python and its data science libraries (numpy, pandas, scikit-learn)
 - Data queries using SQL (BigQuery)
 - Distributed computing (slurm cluster managament)
   
-<!--
+
 ### 📚 Projects
 
- Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
-
+A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md).
+ 
+<!--
 ### 🛠️ Tools
 
 - Language: SQL, Python
