@@ -45,4 +45,4 @@ A growing collection of data science projects can be found [here](https://github
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/sean-murray-de/)
-- Gitlab of my research group https://gitlab.gwdg.de/murray-group
+- Gitlab of my research group https://gitlab.gwdg.de/murray-group contains my research-related work including examples of C++ and Matlab-based projects
