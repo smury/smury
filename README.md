@@ -31,7 +31,7 @@ I am currently looking for new opportunities in the data science and related spa
 
 ### 📚 Projects
 
-A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md).
+A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md) and [here](https://github.com/smury/Google-Advanced-Data-Analytics).
  
 <!--
 ### 🛠️ Tools
