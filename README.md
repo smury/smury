@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🙋🏻‍♂️ Introducing Myself
 
-Hello, ! I'm Sean, a research scientist with expertise in physics, maths and data analysis as well as microbiology and microscopy. I currently lead a research group at the Max Planck Institute for Terrestrial Microbiology, where I used my quantitative skills (PhD in Mathematical Physics) to answer questions in bacterial cell biology. This involves analysing large datasets (of microscopy images) as well as mathematical and computational modelling and simulations.
+Hello! I'm Sean, a research scientist with expertise in physics, maths and data analysis as well as microbiology and microscopy. I currently lead a research group at the Max Planck Institute for Terrestrial Microbiology, where I used my quantitative skills (PhD in Mathematical Physics) to answer questions in bacterial cell biology. This involves analysing large datasets (of microscopy images) as well as mathematical and computational modelling and simulations.
 
 I am currently looking for new opportunities in the data science and related spaces.
 
