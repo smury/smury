@@ -29,9 +29,14 @@ I am currently looking for new opportunities in the data science and related spa
 - Distributed computing (slurm cluster managament)
   
 
-### 📚 Projects
+## 📚 Projects
+
+#### Data science 
 
 A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md) and [here](https://github.com/smury/Google-Advanced-Data-Analytics).
+
+#### Research
+The public gitlab repositories of my research group ([here](https://gitlab.gwdg.de/murray-group)) contain my most recent research-related work including examples of C++ and Matlab-based projects. More information can be found on my [website](https://www.mpi-marburg.mpg.de/murray).
  
 <!--
 ### 🛠️ Tools
@@ -42,7 +47,7 @@ A growing collection of data science projects can be found [here](https://github
 
 -->
 
-### 👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/sean-murray-de/)
-- Gitlab of my research group https://gitlab.gwdg.de/murray-group contains my research-related work including examples of C++ and Matlab-based projects
+
