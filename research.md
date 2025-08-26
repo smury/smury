@@ -17,6 +17,7 @@ We use bacteria as tractable model systems in which to uncover the principles an
 ## Completed Projects
 
 ### Plasmid partitioning driven by collective migration of ParA between nucleoid lobes
+<img width="300" height="389" alt="CoverArtFinal" align="left"  src="https://github.com/user-attachments/assets/6680ca1f-4ccc-4874-9277-114637874a13" />
 
 The ParABS system is crucial for the faithful segregation and inheritance of many bacterial chromosomes and low-copy number plasmids. However, despite extensive research, the spatio-temporal dynamics of the ATPase ParA and its connection to the dynamics and positioning of the ParB-coated cargo has remained unclear. In this study, we utilise high-throughput imaging, quantitative data analysis, and computational modelling to explore the in vivo dynamics of ParA and its interaction with ParB-coated plasmids and the nucleoid. As previously observed, we find that F-plasmid ParA undergoes collective migrations (‘flips’) between cell halves multiple times per cell cycle. We reveal that a constricting nucleoid is required for these migrations and that they are triggered by a plasmid crossing into the cell half with greater ParA. Using simulations, we show that these dynamics can be explained by the combination of nucleoid constriction and cooperative ParA binding to the DNA, in line with the behaviour of other ParA proteins. We further show that these ParA flips act to equally partition plasmids between the two lobes of the constricted nucleoid and are therefore important for plasmid stability, especially in fast growth conditions for which the nucleoid constricts early in the cell cycle. Overall our work identifies a second mode of action of the ParABS system and deepens our understanding of how this important segregation system functions.
 
@@ -31,15 +32,18 @@ Ismath Sadhir and Seán M. Murray† (2023), Nature Communications 14 (1), 7489 
 
  
 ### Inferred counting and tracking of replicating DNA loci
-
+<img width="300" alt="Cover Art" align="left"  src="https://github.com/user-attachments/assets/08f4d447-92b5-40ed-9d5d-4a44a21d5a67" />
 Fluorescent microscopy is the primary method to study DNA organization within cells. However the variability and low signal-to-noise commonly associated with live-cell time lapse imaging challenges quantitative measurements. In particular, obtaining quantitative or mechanistic insight often depends on the accurate tracking of fluorescent particles. Here, we present ★Track, an inference method that determines the most likely temporal tracking of replicating intracellular particles such DNA loci while accounting for missing, merged and spurious detections. It allows the accurate prediction of particle copy numbers as well as the timing of replication events. We demonstrate ★Track’s abilities and gain new insight into plasmid copy number control and the volume dependence of bacterial chromosome replication initiation. By enabling the accurate tracking of DNA loci, ★Track can help to uncover the mechanistic principles of chromosome organisation and dynamics across a range of systems.
+  
 
-Robin Köhler, Ismath Sadhir and Seán M. Murray† (2023), Biophysical Journal 122, 1577-1585 (Cover image, May 2 issue; Selected as one of the best 5 Biophysical Journal articles of 2023) https://doi.org/10.1016/j.bpj.2023.03.033
-
+<br>Robin Köhler, Ismath Sadhir and Seán M. Murray† (2023), Biophysical Journal 122, 1577-1585 (Cover image, May 2 issue; Selected as one of the best 5 Biophysical Journal articles of 2023) https://doi.org/10.1016/j.bpj.2023.03.033
+<br>
+<br>
  
 ### Organisation of the ParABS partition complex
 
 Chromosome segregation is vital for cell replication and in many bacteria is controlled by the ParABS system. A key part of this machinery is the association of ParB proteins to the parS-containing centromeric region to form the partition complex. Despite much work, the formation and structure of this nucleoprotein complex has remained unclear. However, it was recently discovered that CTP binding allows ParB dimers to entrap and slide along the DNA, as well as leading to more efficient condensation through ParB-mediated DNA bridging. Here, we use semi-flexible polymer simulations to show how these properties of sliding and bridging can explain partition complex formation. We find that transient ParB bridges can organise the DNA into either a globular state or into hairpins and helical structures, depending on the bridge lifetime. In separate stochastic simulations, we show that ParB sliding reproduces the experimentally measured multi-peaked binding profile of \textit{Caulobacter crescentus}, indicating that bridging and other potential roadblocks are sufficiently short-lived that they do not hinder ParB spreading. Indeed, upon coupling the two simulation frameworks into a unified sliding and bridging model, we find that short-lived ParB bridges do not hinder ParB sliding and the model can reproduce both the ParB binding profile and the condensation of the nucleoprotein complex. Overall, our model clarifies the mechanism of partition complex formation and predicts its fine structure. We speculate that the DNA hairpins produced by ParB bridging underlie the secondary function of ParB to load the Structural Maintenance of Chromosome (SMC) complex onto the DNA.
+
 
 Lara Connolley, Lucas Schnabel, Martin Thanbichler and Seán M. Murray† (2023), Nature Communications, 14:4567, https://doi.org/10.1038/s41467-023-40320-y
 
