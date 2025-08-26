@@ -25,6 +25,7 @@ Robin Köhler and Seán M. Murray† (2024), PNAS 121(18) e2319205121, https://w
 
 
 ### Mid-cell migration of the chromosomal terminus is coupled to origin segregation in Escherichia coli
+<img width="500" alt="oriter" align="left"  src="https://github.com/user-attachments/assets/29f2a7c3-8aa9-4eb6-b357-73a3287a11bc" />
 
 Bacterial chromosomes are dynamically and spatially organised within cells. In slow-growing Escherichia coli, the chromosomal terminus is initially located at the new pole and must therefore migrate to midcell during replication to reproduce the same pattern in the daughter cells. Here, we use high-throughput time-lapse microscopy to quantify this transition, its timing and its relationship to chromosome segregation. We find that terminus centralisation is a rapid discrete event that occurs ~25 min after initial separation of duplicated origins and ~50 min before the onset of bulk nucleoid segregation but with substantial variation between cells. Despite this variation, its movement is tightly coincident with the completion of origin segregation, even in the absence of its linkage to the divisome, suggesting a coupling between these two events. Indeed, we find that terminus centralisation does not occur if origin segregation away from mid-cell is disrupted, which results in daughter cells having an inverted chromosome organisation. Overall, our study quantifies the choreography of origin-terminus positioning and identifies an unexplored connection between these loci, furthering our understanding of chromosome segregation in this bacterium.
 
@@ -41,14 +42,15 @@ Fluorescent microscopy is the primary method to study DNA organization within ce
 <br>
  
 ### Organisation of the ParABS partition complex
-
+<img width="400"  alt="ParB_bridging" align="left" src="https://github.com/user-attachments/assets/67199539-ea3b-4251-87d0-e4d01d3cd402" />
 Chromosome segregation is vital for cell replication and in many bacteria is controlled by the ParABS system. A key part of this machinery is the association of ParB proteins to the parS-containing centromeric region to form the partition complex. Despite much work, the formation and structure of this nucleoprotein complex has remained unclear. However, it was recently discovered that CTP binding allows ParB dimers to entrap and slide along the DNA, as well as leading to more efficient condensation through ParB-mediated DNA bridging. Here, we use semi-flexible polymer simulations to show how these properties of sliding and bridging can explain partition complex formation. We find that transient ParB bridges can organise the DNA into either a globular state or into hairpins and helical structures, depending on the bridge lifetime. In separate stochastic simulations, we show that ParB sliding reproduces the experimentally measured multi-peaked binding profile of \textit{Caulobacter crescentus}, indicating that bridging and other potential roadblocks are sufficiently short-lived that they do not hinder ParB spreading. Indeed, upon coupling the two simulation frameworks into a unified sliding and bridging model, we find that short-lived ParB bridges do not hinder ParB sliding and the model can reproduce both the ParB binding profile and the condensation of the nucleoprotein complex. Overall, our model clarifies the mechanism of partition complex formation and predicts its fine structure. We speculate that the DNA hairpins produced by ParB bridging underlie the secondary function of ParB to load the Structural Maintenance of Chromosome (SMC) complex onto the DNA.
 
 
-Lara Connolley, Lucas Schnabel, Martin Thanbichler and Seán M. Murray† (2023), Nature Communications, 14:4567, https://doi.org/10.1038/s41467-023-40320-y
+<br>Lara Connolley, Lucas Schnabel, Martin Thanbichler and Seán M. Murray† (2023), Nature Communications, 14:4567, https://doi.org/10.1038/s41467-023-40320-y
 
  
 ###  Chromosome dynamics
+<img width="400"  alt="dynamics" align="left" src="https://github.com/user-attachments/assets/cfc47e21-db08-4a9f-8082-0f757345844e" />
 
 Chromosomal loci in bacterial cells show a robust sub-diffusive scaling of the mean square displacement, MSD(\tau) \sim \tau^{\alpha}, with \alpha < 0.54. On the other hand, recent experiments have also shown that DNA-bridging Nucleoid Associated Proteins (NAPs) play an important role in chromosome organisation and compaction. Here, using polymer simulations we investigate the role of DNA bridging in determining the dynamics of chromosomal loci. We find that bridging compacts the polymer and reproduces the sub-diffusive elastic dynamics of monomers at timescales shorter than the bridge lifetime. Consistent with this prediction, we measure a higher exponent in a strain lacking the NAP H-NS compared to wild-type E. coli. Furthermore, bridging can reproduce the rare but ubiquitous rapid movements of chromosomal loci that have been observed in experiments. In our model the scaling exponent defines a relationship between the abundance of bridges and their lifetime.  Using this and the observed mobility of chromosomal loci, we predict a lower bound on the average bridge lifetime of around 5 seconds.
 
@@ -56,6 +58,7 @@ Srikanth Subramanian and Seán M. Murray† (2023) Physical Review Research  5, 
 
  
 ### Plasmid positioning by ParABS
+<img width="400" align="left" alt="plasmid" src="https://github.com/user-attachments/assets/6215d05a-c639-4b99-b6b4-b8ce10b55eea" />
 
 The faithful segregation and inheritance of bacterial chromosomes and low-copy number plasmids requires dedicated partitioning systems. The most common of these, ParABS, consists of ParA, a DNA-binding ATPase and ParB, a protein that binds to centromeric-like parS sequences on the DNA cargo. The resulting nucleoprotein complexes are believed to move up a self-generated gradient of nucleoid-associated ParA. However, it remains unclear how this leads to the observed cargo positioning and dynamics. In particular, the evaluation of models of plasmid positioning has been hindered by the lack of quantitative measurements of plasmid dynamics. In this work, we used high-throughput imaging, analysis and modelling to determine the dynamical nature of these systems. We found that F plasmid is actively brought to specific subcellular home positions within the cell with dynamics akin to an over-damped spring and developed a unified stochastic model that quantitatively explains this behaviour and predicts that cells with the lowest plasmid concentration transition to oscillatory dynamics. We confirmed this prediction for F plasmid as well as a distantly-related ParABS system. Our results indicate that ParABS regularly positions plasmids across the nucleoid but operates just below the threshold of an oscillatory instability, which according to our model, minimises ATP consumption. This work also clarifies how various plasmid dynamics are achievable in a single unified stochastic model. 
 
@@ -66,6 +69,7 @@ Seán M. Murray†, Martin Howard† (2019) Journal of Molecular Biology, https:
  
 
 ### Tol-Pal relocalisation in Escherichia coli
+<img width="400" align="left" alt="tolpal" align="left" src="https://github.com/user-attachments/assets/ca5710ad-4764-4422-a195-25aa4ee69308" />
 
 Gram-negative bacteria are protected from environmental insult and antibiotic attack by an additional protective layer, the outer membrane.  During cell division, this membrane must be constricted at the septum in coordination with the invaginating cell wall. Recent studies have suggested this coordination is through the accumulation at the division site of Pal, an abundant lipoprotein that connects the outer membrane directly to the peptidoglycan of the cell wall. While the Tol transporter system is believed to be responsible for this reorganisation, the mechanism is unknown. In collaboration with Colin Kleanthous (Oxford), we have recently proposed how the Tol system can actively redistribute Pal within a dividing cell (Szczepaniak et al., 2019). We found that binding to TolB enhances the mobility of Pal molecules by preventing them binding to peptidoglycan. At the division septum, the inner membrane protein TolA, physically removes TolB from these complexes, thereby releasing Pal directly at the septum. This process is dependent on the proton-motive force in a similar manner to the ubiquitous TonB-dependent transporters. Our findings indicate that a diffusion-and-capture mechanism mediated by the PMF underlies the dynamic redistribution of immobile Pal molecules toward the division site, thereby coordinating outer membrane constriction with cell division.
 
@@ -78,6 +82,7 @@ Szczepaniak et al. (2020) Nature Communications, 11, 1305, https://doi.org/10.10
  
 
 ### The role of MukBEF in the spatial positioning of ori
+<img width="400" alt="mukBori" align="left" src="https://github.com/user-attachments/assets/1bbdba47-c44e-47e2-b723-ddb4a4970f73" />
 
 The starting point for chromosomal replication, the ori, has been found to have a crucial role in chromosome organisation and segregation. Not only is it duplicated and segregated first but its genomic position defines, in part, the boundaries of large interaction domains and its spatial position may determine the overall spatial organisation of the chromosome. In slowly to moderately growing Escherichia coli cells, the ori is first positioned at mid-cell. Following replication, duplicated ori separate and migrate, initially very rapidly, to opposite quarter positions, which become the new home positions for the remainder of the cell cycle. The mechanism underlying this behaviour has long been a mystery.
 
