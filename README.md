@@ -36,7 +36,7 @@ I am currently looking for new opportunities in the data science and related spa
 A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md) and [here](https://github.com/smury/Google-Advanced-Data-Analytics).
 
 #### Research
-The public gitlab repositories of my research group ([here](https://gitlab.gwdg.de/murray-group)) contain my most recent research-related work including examples of C++ and Matlab-based projects. More information can be found on my [website](https://www.mpi-marburg.mpg.de/murray).
+The public gitlab repositories of my research group ([here](https://gitlab.gwdg.de/murray-group)) contain my most recent research-related work including examples of C++ and Matlab-based projects.
  
 <!--
 ### 🛠️ Tools
