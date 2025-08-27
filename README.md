@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🙋🏻‍♂️ Introducing Myself
 
-Hello! I'm Sean, a research scientist with expertise in physics, maths and data analysis as well as microbiology and microscopy. Until Dec 2024, I lead a research group at the Max Planck Institute for Terrestrial Microbiology, where I used my quantitative skills (PhD in Mathematical Physics) to answer questions in bacterial cell biology. This involves analysing large datasets (of microscopy images) as well as mathematical and computational modelling and simulations.
+Hello! I'm Sean, a research scientist with expertise in physics, maths and data analysis as well as microbiology and microscopy. Until Dec 2024, I led a research group at the Max Planck Institute for Terrestrial Microbiology, where I used my quantitative skills (PhD in Mathematical Physics) to answer questions in bacterial cell biology. This involved analysing large datasets (of microscopy images) as well as mathematical and computational modelling and simulations.
 
 I am currently looking for new opportunities in the data science and related spaces.
 
@@ -33,7 +33,7 @@ I am currently looking for new opportunities in the data science and related spa
 
 #### Data science 
 
-A growing collection of data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md) and [here](https://github.com/smury/Google-Advanced-Data-Analytics).
+A growing collection of self-learning data science projects can be found [here](https://github.com/smury/Kaggle/blob/main/README.md) and [here](https://github.com/smury/Google-Advanced-Data-Analytics).
 
 #### Research
 The projects of my former research group are described [here](https://github.com/smury/smury/blob/main/research.md). The public gitlab repositories of the group ([here](https://gitlab.gwdg.de/murray-group)) contain my most recent research-related work, including examples of C++ and Matlab-based projects.
